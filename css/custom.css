@@ -28,7 +28,9 @@ border-top: 2px solid #eee;
 
 .box {
 float:left;  
-width: 32%;
+width: 15%;
+border-style: solid;
+border-color: #ffcc00;
 margin-right: 1.5%;
 Margin-bottom: 100px;
 }
