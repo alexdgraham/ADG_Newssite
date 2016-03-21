@@ -27,10 +27,11 @@ border-top: 2px solid #eee;
 }
 
 .box {
+  color: white;
   float: left;
-  width: 32%;
-  margin-right: 1.5%;
-  margin-bottom: 100px;
+  width: 28%;
+  margin-right: 10px;
+  margin-bottom: 15px;
   border-width: thick;
   border-color: solid #ffff00;
 }
@@ -47,9 +48,33 @@ border-top: 2px solid #eee;
 width: 100%;
 }
 
-.box a.read-more {
-display: block;
-margin-top: 5px;
-padding-top: 10px;
-border-top: 1px solid #ccc;
+
+a {
+  
+color: #ffcc00;
+text-decoration: none; 
 }
+  
+a:hover {
+    
+color: black;
+text-decoration: underline; 
+}
+
+
+
+.read-more {
+  
+color: #ffcc00;
+
+text-decoration: underline; 
+}
+  
+.read-more:hover {
+    
+color: black
+;    
+text-decoration: none; 
+}
+
+
