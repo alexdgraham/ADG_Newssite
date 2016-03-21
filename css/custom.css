@@ -31,8 +31,8 @@ border-top: 2px solid #eee;
   width: 32%;
   margin-right: 1.5%;
   margin-bottom: 100px;
-  border-width: 2px;
-  border-color: 2px solid #ffff00;
+  border-width: thick;
+  border-color: solid #ffff00;
 }
 
 .box:last-child {
